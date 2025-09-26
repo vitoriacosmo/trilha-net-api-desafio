@@ -1,3 +1,7 @@
+*.user
+*.suo
+*.csproj.user
+*.pdb
+*.cache
+*.log
 .vs/
-bin/
-obj/
